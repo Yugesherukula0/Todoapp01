@@ -266,6 +266,17 @@ WEB-INF/lib/
 
 ---
 
+## Video Reference
+Drive: https://drive.google.com/file/d/1JR5xn55g7NWL5lkP64633n153krKY3cF/view?usp=sharing
+
+---
+
+## LinkedIn
+Profile: www.linkedin.com/in/yugesherukula
+
+
+---
+
 ## Author
 
 **Yugesh Erukula**  
